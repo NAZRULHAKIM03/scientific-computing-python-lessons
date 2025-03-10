@@ -3,9 +3,9 @@ Vigenere Cipher
 A simple Python implementation of the Vigenere Cipher, a method of encrypting and decrypting text using a keyword-based shifting technique.
 
 Features
-	•	Encrypts plaintext using a keyword.
-	•	Decrypts ciphertext back into readable text.
-	•	Handles uppercase and lowercase letters.
+	•	Encrypts plaintext using a keyword
+	•	Decrypts ciphertext back into readable text
+	•	Handles uppercase and lowercase letters
 
 How It Works
 
