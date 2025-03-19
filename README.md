@@ -1,2 +1,7 @@
-# Scientific-Computing-Python
-Projects and exercises completed as part of the Scientific Computing with Python course from freeCodeCamp
+Scientific Computing with Python
+
+This repository contains all the lesson exercises and practice code from the Scientific Computing with Python course by FreeCodeCamp.
+
+Each folder contains code written during the lessons
+
+This repository is separate from my Python Certification Projects repo, where I store the five final projects required for certification.
